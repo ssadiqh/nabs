@@ -16,4 +16,3 @@ abc
 def
 
 xyz
-xyz
