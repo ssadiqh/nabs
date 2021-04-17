@@ -20,7 +20,5 @@ xyz
 er
 pqr
 
-
-
 test3 
 test24
